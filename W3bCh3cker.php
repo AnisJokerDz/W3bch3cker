@@ -38,7 +38,7 @@ echo "\n \n
 
 
 $food = file_get_contents($argv[1]);
-$food = explode("\r\n", $food);
+$tacos = explode("\r\n", $food);
 
 
 
